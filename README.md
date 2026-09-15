@@ -5,11 +5,11 @@
 | Nome Completo | Matrícula | Função / Papel no Projeto | E-mail |
 | :--- | :--- | :--- | :--- |
 | Fagner Célio Pereira Barreto | 01465577 | Testador | 01465577@sempreuninassau.com.br |
-| Guilherme José Bezerra Coutinho | xxxxxxxx | Não definido | naosei@sempreuninassau.com.br |
-| Heron Bezerra de Melo Santos | 01900978 | Não definido | 01900978@sempreuninassau.com.br |
-| Pedro Sayão Valençe e Souza | 01897758 | Desenvolvedor / Scrum master | 01897758@sempreuninassau.com.br |
-| Polyana Fernanda da Silva Alves | xxxxxxxx | Desenvolvedor Frontend | naosei@sempreuninassau.com.br |
-| Yohanna Vitória Carneiro dos Santos | xxxxxxxx | Desenvolvedor Frontend | naosei@sempreuninassau.com.br |
+| Guilherme José Bezerra Coutinho | 01909302 | Documentador | 01909302@sempreuninassau.com.br |
+| Heron Bezerra de Melo Santos | 01900978 | Documentador | 01900978@sempreuninassau.com.br |
+| Pedro Sayão Valençe e Souza | 01897758 | Desenvolvedor/Scrum master | 01897758@sempreuninassau.com.br |
+| Polyana Fernanda da Silva Alves | 01809854 | Desenvolvedor | 01809854@sempreuninassau.com.br |
+| Yohanna Vitória Carneiro dos Santos | 01910666 | Testador | 01910666@sempreuninassau.com.br |
 
 ---
 
