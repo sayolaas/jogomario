@@ -1,6 +1,6 @@
 # Jogo do Mario - Projeto Web Coding
 
-## Identificação da Equipe (Seção 1.1)
+## Equipe
 
 | Nome Completo | Matrícula | Função / Papel no Projeto | E-mail |
 | :--- | :--- | :--- | :--- |
@@ -13,5 +13,21 @@
 
 ---
 
-## Descrição do Projeto
+## Descrição e objetivo do Projeto
 Projeto desenvolvido para a disciplina de Web Coding com o objetivo de praticar o desenvolvimento front-end utilizando HTML5, CSS3 e JavaScript, integrado ao controle de versão e gerenciamento de ramificações com Git e GitHub.
+
+---
+
+## Tecnologias Utilizadas
+* **HTML5:** Estruturação dos elementos da tela do jogo.
+* **CSS3:** Estilização visual, layout e animações dos cenários e personagens.
+* **JavaScript:** Lógica do jogo, detecção de colisões, controle de eventos do teclado (pulo).
+* **Git & GitHub:** Versionamento de código, controle de *branches* e fluxo de *Pull Requests*.
+
+
+## Instruções para Instalação
+# Pré-requisitos:
+ Um navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge ou Safari).
+ # Passo a passo
+1. Clone este repositório para a sua máquina local executando o comando no terminal:
+git clone [https://github.com/sayolaas/jogomario.git](https://github.com/sayolaas/jogomario.git)
